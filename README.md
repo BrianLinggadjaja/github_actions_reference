@@ -338,9 +338,3 @@ With this we call a **community** made action to **download** any artifacts need
 - Then we will specify a specific artifact we want to download and use in this workflow.
 
     If no `name` is specified, all artifacts will be downloaded in a workflow run.
-
----
-
-# Basic Attributes/Properties & Characteristics
-
-[Attributes/Properties & Associated Characteristics](https://www.notion.so/c272dad18d83457c83c559479a6d3267)
