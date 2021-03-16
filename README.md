@@ -1,4 +1,5 @@
 # GitHub Actions Reference
+![GitHub Actions Infographic](https://repository-images.githubusercontent.com/348158210/67fa5a80-85b4-11eb-9bfa-3d71535cebe6)
 
 # Context
 
