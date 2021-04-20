@@ -1,6 +1,8 @@
 # GitHub Actions Reference
 ![GitHub Actions Infographic](https://repository-images.githubusercontent.com/348158210/d17a6900-85b4-11eb-9285-647c97933bed)
 
+**Original Documentation**: https://docs.github.com/en/actions
+
 # Context
 
 - Workflows
